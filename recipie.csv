@@ -1,0 +1,501 @@
+fruit_type,state,temperature_label,weather,preferred_dish_name,fruit_condition
+Papaya,Bihar,Cold,Cloudy,Papaya Juice,Rotten
+Orange,Uttar Pradesh,Hot,Cloudy,Orange Juice,Rotten
+Pomegranate,Kerala,Hot,Humid,Pomegranate Salad,Raw
+Guava,West Bengal,Cool,Cloudy,Guava Chutney,Rotten
+Guava,Karnataka,Hot,Humid,Guava Salad,Raw
+Litchi,Gujarat,Hot,Cloudy,Litchi Salad,Raw
+Guava,West Bengal,Hot,Humid,Guava Juice,Rotten
+Apple,Punjab,Cold,Sunny,Apple Chutney,Ripe
+Orange,Bihar,Cold,Cloudy,Orange Cake,Rotten
+Mango,Punjab,Cool,Sunny,Mango Lassi,Rotten
+Litchi,Tamil Nadu,Cold,Sunny,Litchi Juice,Rotten
+Guava,Kerala,Mild,Rainy,Guava Salad,Rotten
+Orange,Tamil Nadu,Warm,Humid,Orange Cake,Ripe
+Banana,Kerala,Cool,Humid,Banana Smoothie,Raw
+Grapes,West Bengal,Warm,Windy,Grape Halwa,Rotten
+Apple,Tamil Nadu,Hot,Rainy,Apple Chutney,Raw
+Mango,Punjab,Warm,Sunny,Mango Lassi,Ripe
+Litchi,Uttar Pradesh,Cool,Sunny,Litchi Juice,Ripe
+Guava,Kerala,Warm,Cloudy,Guava Chutney,Rotten
+Pomegranate,West Bengal,Mild,Cloudy,Pomegranate Juice,Ripe
+Pineapple,Punjab,Cold,Windy,Pineapple Juice,Raw
+Orange,Tamil Nadu,Cool,Rainy,Orange Juice,Rotten
+Papaya,Karnataka,Warm,Sunny,Papaya Halwa,Raw
+Pineapple,Karnataka,Cool,Cloudy,Pineapple Rasam,Ripe
+Litchi,West Bengal,Cold,Rainy,Litchi Ice Cream,Raw
+Banana,Punjab,Hot,Cloudy,Banana Payasam,Ripe
+Guava,Gujarat,Cold,Cloudy,Guava Juice,Rotten
+Grapes,Gujarat,Cold,Humid,Grape Halwa,Rotten
+Banana,Tamil Nadu,Cool,Windy,Banana Chips,Rotten
+Mango,Uttar Pradesh,Warm,Humid,Aam Panna,Rotten
+Orange,West Bengal,Mild,Cloudy,Orange Juice,Rotten
+Grapes,West Bengal,Mild,Cloudy,Grape Halwa,Ripe
+Orange,Karnataka,Warm,Sunny,Orange Juice,Raw
+Banana,Bihar,Cold,Cloudy,Banana Chips,Rotten
+Papaya,Punjab,Hot,Humid,Papaya Halwa,Raw
+Banana,Maharashtra,Hot,Cloudy,Banana Payasam,Raw
+Litchi,Gujarat,Cold,Windy,Litchi Ice Cream,Raw
+Orange,Tamil Nadu,Warm,Sunny,Orange Cake,Raw
+Orange,Punjab,Hot,Rainy,Orange Cake,Ripe
+Mango,West Bengal,Mild,Rainy,Mango Chutney,Rotten
+Mango,Uttar Pradesh,Cool,Cloudy,Mango Lassi,Rotten
+Litchi,Uttar Pradesh,Cool,Cloudy,Litchi Juice,Rotten
+Apple,Bihar,Mild,Sunny,Apple Pie,Ripe
+Banana,Bihar,Hot,Humid,Banana Chips,Rotten
+Pomegranate,Punjab,Cool,Windy,Pomegranate Juice,Rotten
+Litchi,Andhra Pradesh,Mild,Rainy,Litchi Juice,Ripe
+Banana,Karnataka,Mild,Humid,Banana Payasam,Raw
+Banana,West Bengal,Cool,Windy,Banana Payasam,Raw
+Banana,Kerala,Hot,Rainy,Banana Chips,Rotten
+Banana,Kerala,Cold,Humid,Banana Chips,Rotten
+Banana,Uttar Pradesh,Mild,Cloudy,Banana Chips,Raw
+Apple,West Bengal,Hot,Rainy,Apple Juice,Ripe
+Grapes,West Bengal,Hot,Humid,Grape Salad,Rotten
+Papaya,Gujarat,Cool,Windy,Papaya Halwa,Rotten
+Papaya,Punjab,Warm,Humid,Papaya Juice,Ripe
+Banana,Kerala,Hot,Windy,Banana Payasam,Rotten
+Litchi,Kerala,Cool,Cloudy,Litchi Ice Cream,Ripe
+Apple,Tamil Nadu,Cold,Windy,Apple Juice,Raw
+Litchi,Kerala,Cold,Sunny,Litchi Juice,Rotten
+Pineapple,Tamil Nadu,Mild,Humid,Pineapple Rasam,Raw
+Grapes,Karnataka,Cool,Humid,Grape Salad,Rotten
+Grapes,Karnataka,Cold,Rainy,Grape Halwa,Ripe
+Orange,Bihar,Warm,Humid,Orange Cake,Ripe
+Grapes,Gujarat,Warm,Rainy,Grape Salad,Ripe
+Apple,Punjab,Mild,Sunny,Apple Juice,Rotten
+Litchi,Bihar,Mild,Humid,Litchi Juice,Raw
+Mango,Punjab,Cold,Rainy,Aam Panna,Ripe
+Litchi,Punjab,Warm,Windy,Litchi Juice,Ripe
+Grapes,Bihar,Mild,Cloudy,Grape Juice,Raw
+Guava,Punjab,Hot,Windy,Guava Chutney,Raw
+Grapes,Gujarat,Cool,Windy,Grape Salad,Rotten
+Orange,Uttar Pradesh,Mild,Cloudy,Orange Juice,Raw
+Grapes,Andhra Pradesh,Cold,Humid,Grape Salad,Raw
+Apple,Karnataka,Warm,Sunny,Apple Pie,Ripe
+Banana,Punjab,Cool,Cloudy,Banana Smoothie,Rotten
+Litchi,Punjab,Hot,Cloudy,Litchi Juice,Raw
+Guava,Uttar Pradesh,Mild,Rainy,Guava Juice,Rotten
+Grapes,Tamil Nadu,Warm,Cloudy,Grape Juice,Raw
+Banana,Bihar,Cold,Sunny,Banana Smoothie,Raw
+Apple,West Bengal,Hot,Sunny,Apple Chutney,Rotten
+Guava,Uttar Pradesh,Mild,Windy,Guava Juice,Rotten
+Orange,Punjab,Cool,Windy,Orange Salad,Ripe
+Pomegranate,Uttar Pradesh,Mild,Cloudy,Anardana Chutney,Ripe
+Mango,Uttar Pradesh,Cool,Windy,Mango Lassi,Raw
+Pineapple,Punjab,Cool,Rainy,Pineapple Sheera,Raw
+Pomegranate,Bihar,Hot,Humid,Anardana Chutney,Raw
+Pomegranate,West Bengal,Cool,Rainy,Pomegranate Salad,Raw
+Pineapple,Tamil Nadu,Cold,Humid,Pineapple Sheera,Raw
+Mango,West Bengal,Hot,Humid,Mango Chutney,Ripe
+Guava,Uttar Pradesh,Cold,Windy,Guava Chutney,Rotten
+Papaya,Kerala,Mild,Cloudy,Papaya Juice,Rotten
+Banana,Andhra Pradesh,Mild,Cloudy,Banana Payasam,Ripe
+Papaya,Andhra Pradesh,Hot,Cloudy,Papaya Salad,Ripe
+Guava,Andhra Pradesh,Hot,Sunny,Guava Juice,Rotten
+Papaya,West Bengal,Hot,Cloudy,Papaya Salad,Raw
+Mango,Bihar,Warm,Cloudy,Mango Lassi,Ripe
+Mango,Karnataka,Mild,Rainy,Mango Lassi,Raw
+Pineapple,Andhra Pradesh,Cool,Sunny,Pineapple Juice,Raw
+Pineapple,Andhra Pradesh,Cool,Windy,Pineapple Rasam,Rotten
+Mango,West Bengal,Cool,Sunny,Mango Lassi,Raw
+Banana,Uttar Pradesh,Warm,Windy,Banana Smoothie,Rotten
+Apple,Bihar,Warm,Humid,Apple Chutney,Rotten
+Guava,Kerala,Cold,Windy,Guava Salad,Ripe
+Grapes,Karnataka,Cold,Sunny,Grape Juice,Ripe
+Apple,West Bengal,Cool,Sunny,Apple Juice,Ripe
+Orange,Tamil Nadu,Cool,Sunny,Orange Juice,Rotten
+Grapes,Bihar,Warm,Sunny,Grape Juice,Rotten
+Grapes,Bihar,Cold,Windy,Grape Halwa,Rotten
+Litchi,Uttar Pradesh,Mild,Windy,Litchi Ice Cream,Raw
+Orange,Karnataka,Cold,Sunny,Orange Cake,Rotten
+Banana,West Bengal,Cool,Rainy,Banana Payasam,Rotten
+Mango,Kerala,Mild,Rainy,Mango Lassi,Ripe
+Papaya,Karnataka,Cool,Humid,Papaya Halwa,Raw
+Apple,Punjab,Cool,Rainy,Apple Pie,Rotten
+Pomegranate,Karnataka,Cool,Humid,Pomegranate Salad,Ripe
+Grapes,Kerala,Cold,Humid,Grape Juice,Raw
+Papaya,West Bengal,Mild,Humid,Papaya Halwa,Ripe
+Mango,Gujarat,Hot,Cloudy,Mango Lassi,Rotten
+Apple,Kerala,Mild,Sunny,Apple Juice,Ripe
+Litchi,Punjab,Mild,Humid,Litchi Salad,Raw
+Apple,Bihar,Hot,Rainy,Apple Juice,Ripe
+Apple,Punjab,Warm,Humid,Apple Juice,Raw
+Grapes,Karnataka,Cold,Humid,Grape Salad,Rotten
+Pineapple,Punjab,Hot,Rainy,Pineapple Juice,Raw
+Pineapple,Maharashtra,Hot,Cloudy,Pineapple Sheera,Raw
+Litchi,Uttar Pradesh,Cold,Sunny,Litchi Ice Cream,Rotten
+Pineapple,Bihar,Mild,Sunny,Pineapple Rasam,Ripe
+Mango,Karnataka,Cool,Humid,Mango Chutney,Rotten
+Litchi,Andhra Pradesh,Hot,Humid,Litchi Juice,Ripe
+Mango,Karnataka,Warm,Windy,Mango Chutney,Raw
+Apple,Punjab,Warm,Cloudy,Apple Chutney,Ripe
+Papaya,Uttar Pradesh,Mild,Windy,Papaya Juice,Ripe
+Apple,Punjab,Cool,Windy,Apple Chutney,Ripe
+Banana,Karnataka,Cold,Sunny,Banana Chips,Ripe
+Pineapple,Karnataka,Cold,Humid,Pineapple Juice,Raw
+Litchi,Kerala,Mild,Cloudy,Litchi Juice,Rotten
+Litchi,Kerala,Hot,Rainy,Litchi Ice Cream,Rotten
+Banana,West Bengal,Cold,Humid,Banana Chips,Ripe
+Grapes,Tamil Nadu,Cool,Windy,Grape Halwa,Ripe
+Banana,Uttar Pradesh,Mild,Rainy,Banana Payasam,Raw
+Litchi,West Bengal,Cool,Humid,Litchi Juice,Rotten
+Papaya,Gujarat,Mild,Cloudy,Papaya Halwa,Ripe
+Banana,Bihar,Mild,Windy,Banana Chips,Raw
+Pineapple,Gujarat,Mild,Windy,Pineapple Juice,Raw
+Mango,West Bengal,Cool,Sunny,Aam Panna,Rotten
+Grapes,Andhra Pradesh,Warm,Cloudy,Grape Juice,Ripe
+Litchi,Punjab,Cold,Windy,Litchi Juice,Rotten
+Grapes,Gujarat,Cold,Humid,Grape Halwa,Ripe
+Grapes,Bihar,Hot,Rainy,Grape Halwa,Rotten
+Grapes,Maharashtra,Mild,Sunny,Grape Halwa,Rotten
+Banana,Andhra Pradesh,Hot,Cloudy,Banana Payasam,Ripe
+Grapes,Uttar Pradesh,Warm,Windy,Grape Halwa,Ripe
+Papaya,Uttar Pradesh,Cool,Sunny,Papaya Salad,Rotten
+Pomegranate,Andhra Pradesh,Cool,Sunny,Anardana Chutney,Raw
+Grapes,Maharashtra,Mild,Windy,Grape Salad,Raw
+Pomegranate,Punjab,Cold,Humid,Anardana Chutney,Rotten
+Guava,Uttar Pradesh,Warm,Rainy,Guava Juice,Raw
+Grapes,Tamil Nadu,Hot,Windy,Grape Juice,Raw
+Guava,Andhra Pradesh,Cold,Humid,Guava Chutney,Rotten
+Mango,Kerala,Cool,Rainy,Aam Panna,Ripe
+Orange,West Bengal,Hot,Cloudy,Orange Juice,Raw
+Apple,Punjab,Cool,Humid,Apple Juice,Raw
+Apple,Maharashtra,Mild,Windy,Apple Pie,Raw
+Banana,Karnataka,Cold,Humid,Banana Payasam,Rotten
+Banana,Uttar Pradesh,Hot,Humid,Banana Chips,Ripe
+Pomegranate,West Bengal,Cold,Sunny,Pomegranate Juice,Rotten
+Banana,Bihar,Mild,Cloudy,Banana Smoothie,Rotten
+Pomegranate,West Bengal,Warm,Humid,Pomegranate Salad,Raw
+Apple,Andhra Pradesh,Mild,Cloudy,Apple Chutney,Rotten
+Papaya,West Bengal,Hot,Sunny,Papaya Juice,Ripe
+Litchi,Karnataka,Hot,Windy,Litchi Salad,Rotten
+Pineapple,Karnataka,Warm,Sunny,Pineapple Sheera,Raw
+Mango,Tamil Nadu,Warm,Rainy,Mango Lassi,Raw
+Pineapple,Punjab,Mild,Cloudy,Pineapple Juice,Ripe
+Papaya,Uttar Pradesh,Warm,Sunny,Papaya Halwa,Ripe
+Guava,Gujarat,Cool,Cloudy,Guava Chutney,Raw
+Apple,Gujarat,Hot,Humid,Apple Pie,Ripe
+Papaya,Punjab,Warm,Humid,Papaya Salad,Raw
+Grapes,Uttar Pradesh,Hot,Humid,Grape Juice,Raw
+Pomegranate,Gujarat,Mild,Rainy,Pomegranate Juice,Ripe
+Apple,Gujarat,Cold,Humid,Apple Juice,Rotten
+Papaya,Gujarat,Cold,Cloudy,Papaya Halwa,Raw
+Pomegranate,Uttar Pradesh,Hot,Windy,Anardana Chutney,Ripe
+Mango,Punjab,Mild,Windy,Mango Lassi,Raw
+Guava,Punjab,Mild,Humid,Guava Salad,Ripe
+Apple,Andhra Pradesh,Warm,Cloudy,Apple Chutney,Raw
+Banana,Karnataka,Cool,Windy,Banana Payasam,Rotten
+Litchi,Maharashtra,Mild,Sunny,Litchi Ice Cream,Rotten
+Pineapple,Bihar,Cold,Sunny,Pineapple Sheera,Ripe
+Pomegranate,West Bengal,Mild,Rainy,Pomegranate Salad,Raw
+Guava,Tamil Nadu,Cold,Humid,Guava Salad,Ripe
+Litchi,West Bengal,Warm,Windy,Litchi Ice Cream,Raw
+Banana,West Bengal,Hot,Cloudy,Banana Payasam,Rotten
+Apple,West Bengal,Hot,Cloudy,Apple Juice,Ripe
+Grapes,Gujarat,Mild,Sunny,Grape Juice,Ripe
+Pomegranate,Kerala,Cool,Cloudy,Anardana Chutney,Raw
+Grapes,Maharashtra,Warm,Rainy,Grape Salad,Rotten
+Litchi,Kerala,Warm,Cloudy,Litchi Salad,Ripe
+Pomegranate,Uttar Pradesh,Warm,Cloudy,Pomegranate Juice,Ripe
+Pineapple,Kerala,Cold,Windy,Pineapple Sheera,Rotten
+Banana,Bihar,Warm,Sunny,Banana Payasam,Raw
+Orange,Gujarat,Mild,Cloudy,Orange Juice,Ripe
+Litchi,Kerala,Warm,Humid,Litchi Salad,Ripe
+Grapes,Gujarat,Hot,Windy,Grape Salad,Raw
+Papaya,Uttar Pradesh,Warm,Rainy,Papaya Salad,Raw
+Grapes,Kerala,Cool,Rainy,Grape Juice,Raw
+Pomegranate,Maharashtra,Warm,Windy,Pomegranate Salad,Ripe
+Papaya,Punjab,Hot,Cloudy,Papaya Salad,Ripe
+Litchi,Andhra Pradesh,Mild,Windy,Litchi Salad,Raw
+Pineapple,Karnataka,Warm,Sunny,Pineapple Rasam,Raw
+Orange,Gujarat,Cold,Cloudy,Orange Cake,Rotten
+Guava,West Bengal,Warm,Cloudy,Guava Chutney,Ripe
+Mango,Punjab,Cool,Rainy,Mango Chutney,Rotten
+Guava,Gujarat,Cold,Cloudy,Guava Salad,Ripe
+Orange,Bihar,Cold,Humid,Orange Juice,Raw
+Grapes,West Bengal,Cool,Humid,Grape Halwa,Rotten
+Orange,Kerala,Hot,Windy,Orange Juice,Ripe
+Pomegranate,Bihar,Cool,Rainy,Pomegranate Juice,Rotten
+Apple,Maharashtra,Cold,Sunny,Apple Juice,Rotten
+Papaya,Kerala,Mild,Windy,Papaya Halwa,Ripe
+Litchi,Tamil Nadu,Cool,Cloudy,Litchi Ice Cream,Rotten
+Mango,Karnataka,Hot,Sunny,Mango Lassi,Raw
+Pomegranate,Kerala,Cold,Rainy,Anardana Chutney,Rotten
+Guava,Bihar,Cold,Sunny,Guava Salad,Raw
+Orange,Karnataka,Mild,Humid,Orange Salad,Raw
+Mango,Punjab,Warm,Cloudy,Mango Chutney,Raw
+Pineapple,West Bengal,Cool,Sunny,Pineapple Rasam,Raw
+Mango,Maharashtra,Hot,Windy,Aam Panna,Rotten
+Papaya,Kerala,Cool,Rainy,Papaya Juice,Ripe
+Guava,Tamil Nadu,Cold,Humid,Guava Salad,Raw
+Litchi,Tamil Nadu,Warm,Humid,Litchi Ice Cream,Ripe
+Guava,Tamil Nadu,Cool,Humid,Guava Salad,Rotten
+Banana,Andhra Pradesh,Hot,Cloudy,Banana Smoothie,Ripe
+Guava,Bihar,Cool,Rainy,Guava Juice,Ripe
+Grapes,Punjab,Hot,Humid,Grape Juice,Rotten
+Mango,Tamil Nadu,Mild,Sunny,Mango Chutney,Raw
+Banana,Andhra Pradesh,Cool,Humid,Banana Chips,Rotten
+Orange,Kerala,Mild,Humid,Orange Juice,Ripe
+Grapes,Andhra Pradesh,Warm,Sunny,Grape Juice,Raw
+Orange,Tamil Nadu,Hot,Cloudy,Orange Cake,Ripe
+Grapes,Tamil Nadu,Cold,Humid,Grape Juice,Rotten
+Guava,Kerala,Cool,Windy,Guava Juice,Rotten
+Orange,Bihar,Cold,Windy,Orange Cake,Ripe
+Litchi,Uttar Pradesh,Cool,Windy,Litchi Juice,Rotten
+Pomegranate,Gujarat,Warm,Cloudy,Anardana Chutney,Raw
+Apple,Punjab,Warm,Sunny,Apple Chutney,Ripe
+Guava,Andhra Pradesh,Cool,Sunny,Guava Chutney,Ripe
+Apple,Andhra Pradesh,Hot,Windy,Apple Juice,Ripe
+Orange,Uttar Pradesh,Hot,Cloudy,Orange Cake,Rotten
+Litchi,Punjab,Hot,Humid,Litchi Juice,Rotten
+Mango,Maharashtra,Cold,Humid,Mango Lassi,Rotten
+Pineapple,Maharashtra,Hot,Cloudy,Pineapple Juice,Rotten
+Guava,Punjab,Cold,Humid,Guava Juice,Ripe
+Grapes,Karnataka,Mild,Humid,Grape Juice,Rotten
+Papaya,Tamil Nadu,Warm,Cloudy,Papaya Juice,Rotten
+Guava,Kerala,Cold,Sunny,Guava Salad,Ripe
+Pineapple,Kerala,Cold,Windy,Pineapple Juice,Raw
+Papaya,Punjab,Cold,Cloudy,Papaya Juice,Raw
+Mango,West Bengal,Mild,Humid,Mango Lassi,Raw
+Pineapple,Maharashtra,Mild,Sunny,Pineapple Juice,Raw
+Pomegranate,Karnataka,Cold,Sunny,Anardana Chutney,Raw
+Grapes,Punjab,Warm,Cloudy,Grape Halwa,Ripe
+Banana,Karnataka,Cool,Windy,Banana Chips,Rotten
+Guava,Tamil Nadu,Hot,Windy,Guava Salad,Rotten
+Orange,West Bengal,Cool,Rainy,Orange Salad,Rotten
+Banana,Kerala,Cold,Sunny,Banana Chips,Rotten
+Mango,Punjab,Cold,Humid,Mango Lassi,Raw
+Papaya,Uttar Pradesh,Mild,Cloudy,Papaya Juice,Raw
+Banana,Andhra Pradesh,Cool,Humid,Banana Payasam,Ripe
+Banana,Maharashtra,Mild,Sunny,Banana Chips,Rotten
+Grapes,West Bengal,Warm,Sunny,Grape Juice,Ripe
+Mango,Bihar,Cool,Windy,Mango Chutney,Ripe
+Mango,Punjab,Hot,Cloudy,Mango Lassi,Rotten
+Grapes,Bihar,Cold,Humid,Grape Salad,Rotten
+Orange,Tamil Nadu,Cold,Windy,Orange Salad,Raw
+Pomegranate,Tamil Nadu,Warm,Sunny,Pomegranate Juice,Rotten
+Grapes,Uttar Pradesh,Cool,Rainy,Grape Halwa,Rotten
+Orange,West Bengal,Warm,Windy,Orange Cake,Raw
+Guava,Tamil Nadu,Cold,Sunny,Guava Salad,Ripe
+Orange,West Bengal,Cool,Sunny,Orange Salad,Raw
+Grapes,Punjab,Cool,Sunny,Grape Juice,Raw
+Papaya,Punjab,Warm,Windy,Papaya Juice,Rotten
+Orange,Andhra Pradesh,Warm,Sunny,Orange Juice,Rotten
+Pomegranate,West Bengal,Warm,Humid,Anardana Chutney,Ripe
+Litchi,Kerala,Mild,Rainy,Litchi Salad,Rotten
+Banana,Gujarat,Warm,Humid,Banana Smoothie,Rotten
+Orange,West Bengal,Mild,Cloudy,Orange Salad,Rotten
+Apple,Kerala,Hot,Windy,Apple Juice,Ripe
+Banana,Uttar Pradesh,Warm,Humid,Banana Smoothie,Raw
+Guava,Bihar,Hot,Sunny,Guava Salad,Rotten
+Litchi,Bihar,Cool,Cloudy,Litchi Juice,Ripe
+Apple,Uttar Pradesh,Mild,Windy,Apple Juice,Rotten
+Mango,Gujarat,Mild,Humid,Mango Chutney,Rotten
+Papaya,Kerala,Cold,Cloudy,Papaya Salad,Rotten
+Orange,Karnataka,Warm,Rainy,Orange Cake,Ripe
+Banana,West Bengal,Warm,Humid,Banana Chips,Rotten
+Orange,Tamil Nadu,Hot,Windy,Orange Juice,Rotten
+Grapes,Andhra Pradesh,Warm,Humid,Grape Juice,Raw
+Apple,Andhra Pradesh,Cold,Windy,Apple Juice,Ripe
+Pomegranate,Gujarat,Cold,Cloudy,Pomegranate Salad,Ripe
+Mango,West Bengal,Mild,Rainy,Aam Panna,Rotten
+Papaya,Bihar,Cool,Rainy,Papaya Salad,Ripe
+Litchi,Bihar,Cold,Humid,Litchi Salad,Ripe
+Orange,Karnataka,Cool,Cloudy,Orange Salad,Rotten
+Papaya,Kerala,Cool,Windy,Papaya Halwa,Ripe
+Pomegranate,Andhra Pradesh,Mild,Humid,Anardana Chutney,Rotten
+Papaya,Maharashtra,Warm,Sunny,Papaya Salad,Raw
+Pineapple,Punjab,Cold,Cloudy,Pineapple Rasam,Ripe
+Orange,West Bengal,Cold,Sunny,Orange Juice,Raw
+Papaya,Tamil Nadu,Mild,Rainy,Papaya Salad,Ripe
+Litchi,Tamil Nadu,Cool,Humid,Litchi Salad,Rotten
+Mango,West Bengal,Cool,Rainy,Aam Panna,Rotten
+Orange,Tamil Nadu,Warm,Sunny,Orange Salad,Rotten
+Litchi,Maharashtra,Cold,Sunny,Litchi Salad,Ripe
+Pomegranate,Maharashtra,Hot,Cloudy,Anardana Chutney,Ripe
+Grapes,Tamil Nadu,Mild,Windy,Grape Juice,Ripe
+Mango,Tamil Nadu,Warm,Humid,Mango Chutney,Rotten
+Mango,Andhra Pradesh,Mild,Rainy,Aam Panna,Raw
+Mango,Gujarat,Cold,Rainy,Mango Lassi,Ripe
+Pomegranate,Maharashtra,Mild,Cloudy,Pomegranate Salad,Raw
+Mango,Maharashtra,Hot,Rainy,Mango Chutney,Rotten
+Mango,Karnataka,Cool,Windy,Mango Chutney,Ripe
+Pineapple,Bihar,Hot,Cloudy,Pineapple Rasam,Ripe
+Litchi,West Bengal,Mild,Rainy,Litchi Juice,Rotten
+Mango,Punjab,Mild,Windy,Mango Lassi,Ripe
+Pomegranate,Andhra Pradesh,Mild,Sunny,Pomegranate Salad,Rotten
+Pineapple,Kerala,Cool,Humid,Pineapple Sheera,Ripe
+Orange,Uttar Pradesh,Cool,Cloudy,Orange Cake,Raw
+Guava,Maharashtra,Cold,Rainy,Guava Juice,Ripe
+Pineapple,Gujarat,Cool,Windy,Pineapple Rasam,Raw
+Mango,Punjab,Mild,Cloudy,Aam Panna,Rotten
+Grapes,Karnataka,Warm,Rainy,Grape Halwa,Raw
+Apple,Kerala,Mild,Cloudy,Apple Pie,Raw
+Grapes,Andhra Pradesh,Warm,Windy,Grape Halwa,Ripe
+Papaya,Uttar Pradesh,Warm,Sunny,Papaya Halwa,Raw
+Orange,Bihar,Cool,Cloudy,Orange Cake,Raw
+Apple,Tamil Nadu,Hot,Humid,Apple Pie,Rotten
+Apple,Punjab,Cold,Cloudy,Apple Juice,Ripe
+Pineapple,Tamil Nadu,Warm,Cloudy,Pineapple Rasam,Rotten
+Litchi,West Bengal,Hot,Humid,Litchi Ice Cream,Rotten
+Mango,Maharashtra,Cold,Humid,Mango Lassi,Rotten
+Orange,Punjab,Cold,Windy,Orange Juice,Rotten
+Guava,Punjab,Cool,Humid,Guava Juice,Rotten
+Mango,Kerala,Hot,Rainy,Mango Lassi,Ripe
+Mango,Andhra Pradesh,Warm,Windy,Aam Panna,Raw
+Pomegranate,Kerala,Warm,Windy,Pomegranate Juice,Rotten
+Grapes,West Bengal,Mild,Cloudy,Grape Salad,Ripe
+Papaya,Tamil Nadu,Mild,Sunny,Papaya Juice,Raw
+Litchi,Uttar Pradesh,Cool,Sunny,Litchi Salad,Ripe
+Pineapple,Bihar,Cold,Windy,Pineapple Sheera,Rotten
+Orange,Bihar,Hot,Sunny,Orange Salad,Rotten
+Orange,Uttar Pradesh,Mild,Windy,Orange Juice,Rotten
+Litchi,Maharashtra,Hot,Windy,Litchi Juice,Raw
+Banana,Gujarat,Cool,Rainy,Banana Payasam,Rotten
+Papaya,Kerala,Mild,Humid,Papaya Juice,Rotten
+Banana,Karnataka,Cold,Cloudy,Banana Payasam,Rotten
+Litchi,Andhra Pradesh,Warm,Humid,Litchi Juice,Raw
+Mango,Uttar Pradesh,Cool,Sunny,Mango Lassi,Raw
+Guava,Kerala,Mild,Rainy,Guava Chutney,Rotten
+Pineapple,Andhra Pradesh,Cold,Sunny,Pineapple Rasam,Rotten
+Apple,West Bengal,Hot,Cloudy,Apple Pie,Ripe
+Banana,Andhra Pradesh,Warm,Windy,Banana Smoothie,Ripe
+Pomegranate,Gujarat,Cold,Cloudy,Pomegranate Juice,Rotten
+Banana,Maharashtra,Cold,Cloudy,Banana Smoothie,Rotten
+Apple,Punjab,Hot,Windy,Apple Chutney,Raw
+Pomegranate,Gujarat,Mild,Cloudy,Anardana Chutney,Raw
+Pomegranate,Andhra Pradesh,Cool,Rainy,Pomegranate Juice,Ripe
+Papaya,Punjab,Cool,Cloudy,Papaya Juice,Raw
+Pomegranate,Tamil Nadu,Mild,Windy,Pomegranate Salad,Rotten
+Banana,Karnataka,Hot,Windy,Banana Payasam,Rotten
+Litchi,Gujarat,Cool,Sunny,Litchi Ice Cream,Rotten
+Mango,West Bengal,Cool,Windy,Aam Panna,Raw
+Guava,Tamil Nadu,Cool,Sunny,Guava Chutney,Ripe
+Banana,Tamil Nadu,Hot,Windy,Banana Chips,Rotten
+Banana,West Bengal,Mild,Sunny,Banana Payasam,Rotten
+Banana,Punjab,Mild,Windy,Banana Chips,Rotten
+Pineapple,Karnataka,Hot,Cloudy,Pineapple Sheera,Raw
+Mango,Andhra Pradesh,Cool,Cloudy,Mango Lassi,Rotten
+Papaya,Maharashtra,Mild,Sunny,Papaya Salad,Ripe
+Pineapple,Punjab,Mild,Rainy,Pineapple Juice,Ripe
+Mango,Kerala,Cool,Rainy,Aam Panna,Ripe
+Orange,Kerala,Hot,Sunny,Orange Juice,Rotten
+Guava,Punjab,Mild,Sunny,Guava Juice,Rotten
+Pomegranate,Bihar,Cold,Humid,Anardana Chutney,Raw
+Orange,Bihar,Cold,Windy,Orange Salad,Rotten
+Papaya,West Bengal,Mild,Sunny,Papaya Salad,Rotten
+Pomegranate,Gujarat,Hot,Rainy,Pomegranate Salad,Raw
+Banana,Kerala,Mild,Humid,Banana Chips,Raw
+Orange,Kerala,Cool,Sunny,Orange Salad,Ripe
+Guava,Andhra Pradesh,Mild,Humid,Guava Juice,Rotten
+Pineapple,Gujarat,Cold,Windy,Pineapple Juice,Rotten
+Orange,West Bengal,Mild,Windy,Orange Cake,Rotten
+Grapes,Maharashtra,Hot,Rainy,Grape Halwa,Rotten
+Grapes,Karnataka,Warm,Rainy,Grape Salad,Rotten
+Orange,Tamil Nadu,Warm,Cloudy,Orange Juice,Rotten
+Grapes,Maharashtra,Cold,Cloudy,Grape Juice,Rotten
+Pineapple,Uttar Pradesh,Hot,Rainy,Pineapple Juice,Ripe
+Litchi,West Bengal,Warm,Cloudy,Litchi Juice,Raw
+Grapes,Maharashtra,Hot,Humid,Grape Salad,Rotten
+Papaya,Bihar,Mild,Humid,Papaya Halwa,Rotten
+Banana,Punjab,Hot,Cloudy,Banana Payasam,Rotten
+Grapes,Karnataka,Warm,Sunny,Grape Juice,Raw
+Guava,Bihar,Hot,Cloudy,Guava Chutney,Raw
+Orange,Punjab,Hot,Windy,Orange Juice,Raw
+Litchi,Kerala,Hot,Windy,Litchi Juice,Rotten
+Apple,Kerala,Cold,Sunny,Apple Chutney,Ripe
+Apple,West Bengal,Cold,Sunny,Apple Chutney,Raw
+Pineapple,Kerala,Cool,Sunny,Pineapple Juice,Ripe
+Papaya,West Bengal,Cool,Rainy,Papaya Juice,Ripe
+Apple,West Bengal,Warm,Rainy,Apple Chutney,Ripe
+Orange,Andhra Pradesh,Warm,Rainy,Orange Juice,Raw
+Pineapple,Uttar Pradesh,Warm,Windy,Pineapple Sheera,Raw
+Papaya,Andhra Pradesh,Warm,Rainy,Papaya Juice,Raw
+Litchi,West Bengal,Mild,Humid,Litchi Ice Cream,Ripe
+Orange,Maharashtra,Mild,Windy,Orange Juice,Ripe
+Guava,Uttar Pradesh,Hot,Humid,Guava Juice,Raw
+Pineapple,Gujarat,Warm,Sunny,Pineapple Sheera,Rotten
+Apple,Punjab,Hot,Windy,Apple Chutney,Ripe
+Banana,Kerala,Cool,Cloudy,Banana Chips,Raw
+Guava,Gujarat,Cold,Sunny,Guava Juice,Rotten
+Grapes,Bihar,Hot,Windy,Grape Halwa,Rotten
+Papaya,Gujarat,Warm,Humid,Papaya Salad,Rotten
+Pomegranate,Karnataka,Warm,Cloudy,Anardana Chutney,Ripe
+Banana,Tamil Nadu,Hot,Humid,Banana Payasam,Ripe
+Pomegranate,Gujarat,Warm,Cloudy,Anardana Chutney,Ripe
+Guava,Andhra Pradesh,Cool,Humid,Guava Salad,Raw
+Litchi,West Bengal,Warm,Cloudy,Litchi Juice,Rotten
+Orange,Karnataka,Warm,Rainy,Orange Juice,Raw
+Mango,Gujarat,Cool,Humid,Aam Panna,Ripe
+Papaya,West Bengal,Warm,Rainy,Papaya Juice,Rotten
+Litchi,Punjab,Cool,Sunny,Litchi Juice,Rotten
+Guava,Gujarat,Mild,Sunny,Guava Salad,Raw
+Orange,Punjab,Mild,Rainy,Orange Cake,Rotten
+Pomegranate,Karnataka,Cold,Windy,Anardana Chutney,Ripe
+Pineapple,Maharashtra,Cold,Rainy,Pineapple Sheera,Ripe
+Apple,Karnataka,Cool,Cloudy,Apple Pie,Rotten
+Mango,Karnataka,Warm,Rainy,Mango Chutney,Ripe
+Litchi,Andhra Pradesh,Hot,Windy,Litchi Salad,Rotten
+Litchi,Kerala,Cool,Cloudy,Litchi Juice,Rotten
+Banana,Gujarat,Warm,Humid,Banana Payasam,Rotten
+Pomegranate,West Bengal,Mild,Cloudy,Pomegranate Salad,Rotten
+Mango,Uttar Pradesh,Cool,Windy,Mango Chutney,Ripe
+Guava,Bihar,Cold,Rainy,Guava Juice,Ripe
+Grapes,Punjab,Mild,Windy,Grape Salad,Raw
+Papaya,Karnataka,Cool,Windy,Papaya Salad,Rotten
+Apple,Uttar Pradesh,Cool,Sunny,Apple Pie,Raw
+Guava,Punjab,Warm,Sunny,Guava Juice,Rotten
+Orange,Andhra Pradesh,Cold,Humid,Orange Cake,Ripe
+Papaya,Bihar,Cool,Windy,Papaya Juice,Rotten
+Orange,West Bengal,Hot,Cloudy,Orange Cake,Raw
+Pineapple,Gujarat,Warm,Windy,Pineapple Sheera,Raw
+Litchi,West Bengal,Cold,Humid,Litchi Salad,Raw
+Litchi,Kerala,Warm,Cloudy,Litchi Juice,Ripe
+Banana,Bihar,Cold,Humid,Banana Payasam,Raw
+Mango,Maharashtra,Cool,Windy,Mango Chutney,Rotten
+Litchi,Kerala,Cold,Rainy,Litchi Juice,Rotten
+Mango,Kerala,Cold,Windy,Mango Chutney,Rotten
+Pineapple,Bihar,Cold,Rainy,Pineapple Juice,Ripe
+Guava,Punjab,Cold,Cloudy,Guava Chutney,Ripe
+Banana,Tamil Nadu,Hot,Cloudy,Banana Payasam,Raw
+Mango,Bihar,Mild,Sunny,Mango Lassi,Ripe
+Apple,Uttar Pradesh,Cold,Cloudy,Apple Pie,Ripe
+Mango,Punjab,Hot,Cloudy,Aam Panna,Raw
+Pineapple,West Bengal,Mild,Humid,Pineapple Rasam,Rotten
+Mango,Gujarat,Warm,Sunny,Mango Chutney,Rotten
+Pomegranate,Tamil Nadu,Cold,Cloudy,Pomegranate Juice,Ripe
+Pomegranate,Andhra Pradesh,Hot,Windy,Anardana Chutney,Raw
+Litchi,Andhra Pradesh,Mild,Sunny,Litchi Salad,Raw
+Orange,Kerala,Cold,Rainy,Orange Cake,Ripe
+Papaya,Punjab,Cold,Cloudy,Papaya Halwa,Rotten
+Banana,West Bengal,Hot,Windy,Banana Payasam,Raw
+Mango,Uttar Pradesh,Mild,Windy,Mango Chutney,Raw
+Banana,Uttar Pradesh,Cold,Cloudy,Banana Smoothie,Raw
+Guava,Maharashtra,Hot,Humid,Guava Juice,Ripe
+Litchi,Gujarat,Mild,Windy,Litchi Salad,Raw
+Guava,Kerala,Warm,Humid,Guava Chutney,Raw
+Orange,Uttar Pradesh,Warm,Humid,Orange Juice,Ripe
+Banana,Tamil Nadu,Cold,Rainy,Banana Chips,Ripe
+Litchi,West Bengal,Cool,Sunny,Litchi Ice Cream,Rotten
+Pomegranate,Andhra Pradesh,Mild,Cloudy,Pomegranate Juice,Raw
+Mango,Bihar,Cool,Rainy,Mango Chutney,Rotten
+Papaya,Kerala,Mild,Humid,Papaya Salad,Rotten
+Banana,Punjab,Cool,Cloudy,Banana Payasam,Rotten
+Litchi,Maharashtra,Warm,Rainy,Litchi Juice,Ripe
+Grapes,Karnataka,Cold,Sunny,Grape Juice,Rotten
+Banana,Gujarat,Warm,Cloudy,Banana Smoothie,Rotten
+Grapes,Gujarat,Hot,Rainy,Grape Juice,Rotten
+Orange,Punjab,Cold,Sunny,Orange Juice,Rotten
+Mango,Punjab,Cool,Humid,Mango Lassi,Raw
+Apple,Andhra Pradesh,Hot,Sunny,Apple Juice,Rotten
+Litchi,Tamil Nadu,Cold,Humid,Litchi Salad,Rotten
+Pineapple,Punjab,Cold,Humid,Pineapple Rasam,Raw
+Pineapple,West Bengal,Warm,Windy,Pineapple Rasam,Rotten
+Apple,Andhra Pradesh,Hot,Cloudy,Apple Pie,Rotten
+Litchi,Andhra Pradesh,Warm,Cloudy,Litchi Salad,Raw
+Pineapple,West Bengal,Mild,Rainy,Pineapple Sheera,Rotten
+Pineapple,Andhra Pradesh,Hot,Windy,Pineapple Sheera,Raw
+Papaya,Kerala,Warm,Sunny,Papaya Salad,Raw
+Guava,Karnataka,Cold,Windy,Guava Salad,Rotten
+Apple,Karnataka,Mild,Windy,Apple Pie,Ripe
