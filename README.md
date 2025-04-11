@@ -80,7 +80,3 @@ Special thanks to:
 - Professor Akanksha Kulkarni
 - Dr. Renuka Agrawal
 - Dr. Usha Jogalekar
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
